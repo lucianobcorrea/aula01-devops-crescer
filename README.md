@@ -1,3 +1,1 @@
-# aula01-devops-crescer
-
-Mexendo com docker
+DevOps Crescer
